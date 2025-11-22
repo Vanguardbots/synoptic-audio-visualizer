@@ -1,5 +1,17 @@
 # Vanguard Bots - The Weather Report - Audio Visualizers
 
+
+### Stream
+#### The Weather Report Album
+* [Youtube](https://youtu.be/MkUw6-lOm4E?si=6itoYbSR4MAHzRXf)
+* [Audius](https://audius.co/Vanguardbots/album/the-weather-report)
+* [Soundcloud](https://soundcloud.com/vanguardbots/sets/the-weather-report)
+
+### Follow
+ * [Instagram](https://www.instagram.com/vanguardbots)
+ * [X](https://x.com/vanguardbots)
+ * [Threads](https://www.threads.com/@vanguardbots)
+
 The visualizers are built in Processing which is open source and available for macOS, Windows, and Linux. Projects created with Processing are also cross-platform, and can be used on macOS, Windows, Android, Raspberry Pi, and many other Linux platforms.
 
 [Download Processing](https://processing.org/download)
