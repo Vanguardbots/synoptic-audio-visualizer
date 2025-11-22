@@ -1,6 +1,6 @@
 # Vanguard Bots - The Weather Report - Audio Visualizers
 
-The visualizers are built in Processing which is open source and is available for macOS, Windows, and Linux. Projects created with Processing are also cross-platform, and can be used on macOS, Windows, Android, Raspberry Pi, and many other Linux platforms.
+The visualizers are built in Processing which is open source and available for macOS, Windows, and Linux. Projects created with Processing are also cross-platform, and can be used on macOS, Windows, Android, Raspberry Pi, and many other Linux platforms.
 
 [Download Processing](https://processing.org/download)
 
